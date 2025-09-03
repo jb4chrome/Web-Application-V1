@@ -1,0 +1,11 @@
+FastAPI
+uvicorn
+pydantic
+sqlalchemy
+databases
+httpx
+redis
+types-redis
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
