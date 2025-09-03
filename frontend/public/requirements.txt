@@ -1,0 +1,9 @@
+FastAPI
+uvicorn
+pydantic
+sqlalchemy
+databases
+httpx
+redis
+types-redis
+python-multipart
