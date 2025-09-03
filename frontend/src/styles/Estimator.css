@@ -1,0 +1,47 @@
+.estimator-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+
+.estimator-form {
+    padding: 2rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    width: 100%;
+    max-width: 500px;
+}
+
+.estimator-form h2 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.estimator-form p {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #666;
+}
+
+.result-container {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: #f7f9fc;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.result-container h3 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+}
+
+.cost-result {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007bff;
+    margin: 0;
+}

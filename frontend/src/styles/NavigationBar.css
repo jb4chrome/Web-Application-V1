@@ -1,0 +1,46 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #ffffff;
+  border-bottom: 1px solid #eaeaea;
+  font-family: "Inter", sans-serif;
+}
+
+.nav-left .logo {
+  font-weight: 600;
+  font-size: 1.4rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-center a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+
+.nav-center a:hover {
+  color: #000;
+}
+
+.nav-right a, .nav-right button {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #555;
+  background: none;
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.nav-right .username {
+  margin-right: 0.5rem;
+  font-weight: 500;
+}
+
+.nav-right button:hover, .nav-right a:hover {
+  color: #000;
+}
